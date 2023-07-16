@@ -1,0 +1,65 @@
+body {
+	overflow-wrap: break-word;
+}
+
+main {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+h1 {
+	font-family: "Linux Libertine", "Georgia", "Times", serif;
+	font-size: 28.8px;
+	font-weight: normal;
+	border-bottom: 1px solid #a2a9b1;
+}
+
+h2 {
+	font-family: "Linux Libertine", "Georgia", "Times", serif;
+	font-size: 21px;
+	font-weight: normal;
+	border-bottom: 1px solid #a2a9b1;
+	margin-top: 21px;
+}
+
+p {
+	font-family: sans-serif;
+	font-size: 14px;
+}
+
+ul {
+	font-family: sans-serif;
+	font-size: 14px;
+}
+
+ol {
+	font-family: sans-serif;
+	font-size: 14px;
+}
+
+sup {
+	font-size: 80%;
+}
+
+a {
+	color: #0060df;
+}
+
+.references p {
+	font-size: 12.6px;
+}
+
+footer {
+	max-width: 800px;
+	margin: 0 auto;
+	text-align: center;
+	border-top: 1px solid #a2a9b1;
+}
+
+footer p {
+	max-width: 500px;
+	margin: 0 auto;
+	padding: 20px;
+	font-size: 12.6px;
+}
