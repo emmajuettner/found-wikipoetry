@@ -42,6 +42,10 @@ sup {
 	font-size: 80%;
 }
 
+h1 > sup {
+	font-size: 60%;
+}
+
 a {
 	color: #0060df;
 }
